@@ -1,4 +1,4 @@
-getgenv().Alternate = {
+return {
   ["Auto Parry"] = {
     ["State"] = true,
     ["Mode"] = "Fierce"
